@@ -44,7 +44,7 @@ def procesar_buffer(buffer, entrada, inicio, tamano_buffer):
             
     return inicio
 
-entrada = list("Esto es un ejemplo de entrada con eof")
+entrada = list("Esto es un ejemplo eof")
 inicio = 0
 tamano_buffer = 10
 
